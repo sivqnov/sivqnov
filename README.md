@@ -5,8 +5,8 @@
 <table>
   <thead>
     <tr>
-      <th>Skill</th><th>Value</th>
-      <th>Grade</th>
+      <th>Skill</th>
+      <th>Value</th>
     </tr>
   </thead>
   <tbody>
