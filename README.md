@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+    Hello world!
+</p>
+
+<style>
+    p{
+        background-color: aqua;
+        color: red;
+    }
+</style>
