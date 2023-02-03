@@ -1,17 +1,22 @@
 ### Hi there 👋
 
-<!--
-**sivqnov/sivqnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###My skills:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="http://sun9-73.userapi.com/s/v1/if1/WCkhF80z6s3m-6EGeApNOniyAbGFq1hjnwHpu7rqvxYtPxu3KG9iTNrOzbzBn_Tk-DbPyNLo.jpg?size=200x200&quality=96&crop=0,37,1006,1006&ava=1">
+<table>
+  <thead>
+    <tr>
+      <th>Skill</th><th>Value</th>
+      <th>Grade</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Python</td>
+      <td>🟦🟦🟦⬜⬜</td>
+    </tr>
+    <tr>
+      <td>C#</td>
+      <td>🟦🟦⬜⬜⬜</td>
+    </tr>
+  </tbody>
+</table>
