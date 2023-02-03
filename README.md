@@ -14,14 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p>
-    Hello world!
-</p>
-
-<style>
-    p{
-        background-color: aqua;
-        color: red;
-    }
-</style>
+<img src="http://sun9-73.userapi.com/s/v1/if1/WCkhF80z6s3m-6EGeApNOniyAbGFq1hjnwHpu7rqvxYtPxu3KG9iTNrOzbzBn_Tk-DbPyNLo.jpg?size=200x200&quality=96&crop=0,37,1006,1006&ava=1">
