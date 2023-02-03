@@ -2,7 +2,7 @@
 
 ### My skills:
 
-<table>
+<table border="0">
   <thead>
     <tr>
       <th>Skill</th>
@@ -12,10 +12,18 @@
   <tbody>
     <tr>
       <td>Python</td>
-      <td>🟦🟦🟦⬜⬜</td>
+      <td>🟦🟦🟦🟦⬜</td>
     </tr>
     <tr>
       <td>C#</td>
+      <td>🟦🟦⬜⬜⬜</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>🟦🟦⬜⬜⬜</td>
+    </tr>
+    <tr>
+      <td>SQL</td>
       <td>🟦🟦⬜⬜⬜</td>
     </tr>
   </tbody>
