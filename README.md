@@ -2,7 +2,7 @@
 
 ### My skills:
 
-<table border="0">
+<table border=0>
   <thead>
     <tr>
       <th>Skill</th>
