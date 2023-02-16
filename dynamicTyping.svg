@@ -6,7 +6,7 @@
 
     <style>
 @font-face {
-  font-family: 'Bahnschrift';
+  font-family: 'Arial';
   font-style: normal;
   font-weight: 700;
   font-display: fallback;
