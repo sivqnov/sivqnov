@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sivqnov/sivqnov/main/dynamicTyping.svg"><img src="https://raw.githubusercontent.com/sivqnov/sivqnov/main/dynamicTyping.svg" alt="Sergey Bolshakov" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Inter&amp;color=28bb2d&amp;size=24&amp;weight=700&amp;lines=My+Name+Is+Skrillex;sivqnov" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sivqnov/sivqnov/main/dynamicTyping.svg"><img src="https://raw.githubusercontent.com/sivqnov/sivqnov/main/dynamicTyping.svg" alt="Sergey Bolshakov" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=System&amp;color=28bb2d&amp;size=24&amp;weight=700&amp;lines=My+Name+Is+Skrillex;sivqnov" style="max-width: 100%;"></a></p>
 
 ## My favorite tools and technologies
 
