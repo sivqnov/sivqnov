@@ -24,7 +24,7 @@
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path0'>
-            Sergey Bolshakov
+            My name is Sergey Bolshakov
         </textPath>
     </text>
         <path id='path1'>
@@ -37,7 +37,7 @@
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path1'>
-            @sivqnov
+            Username: @sivqnov
         </textPath>
     </text>
 </svg>
