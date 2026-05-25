@@ -20,7 +20,7 @@
                     dur='3000ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
                     </path>
-    <text font-family='"Inter", monospace' fill='#3A9CDF' font-size='30'
+    <text font-family='"Inter", monospace' fill='#24a528' font-size='24'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path0'>
@@ -33,7 +33,7 @@
                     dur='3000ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
                     </path>
-    <text font-family='"Inter", monospace' fill='#3A9CDF' font-size='30'
+    <text font-family='"Inter", monospace' fill='#24a528' font-size='24'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path1'>
