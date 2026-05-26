@@ -25,7 +25,7 @@
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+        <img src="https://images.seeklogo.com/logo-png/50/2/github-icon-logo-png_seeklogo-503247.png" width="48" height="48" alt="GitHub" />
       <br>Github
     </td>
     <td align="center"  width="96">
@@ -112,7 +112,7 @@
     </td>
     <td align="center" width="96">
       <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+        <img src="https://images.icon-icons.com/159/PNG/256/logo_ubuntu_22359.png" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
     </td>
@@ -175,6 +175,44 @@
    <td align="center" width="96">
      <a href="https://figma.com" target="_blank"><img src="https://static.figma.com/uploads/b6df2735e4cb368306acf5480b50f96e69f96099" alt="Figma" width=40 height=40/></a>
      <br>Figma
+   </td>
+ </tr>
+ <tr>
+   <td align="center" width="96">
+     <a href="https://jwt.io" target="_blank"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/jwt-icon-138bxvrhijus263d2f2wur.png/jwt-icon-aqjx58uyj3lrxtborzgyg.png?_a=DATAiZiuZAA0" alt="JWT" width=40 height=40/></a>
+     <br>JWT
+   </td>
+   <td align="center" width="96">
+     <a href="https://www.jetbrains.com/" target="_blank"><img src="https://www.jetbrains.com/favicon.ico?r=1234" alt="JetBrains" width=40 height=40/></a>
+     <br>JetBrains
+   </td>
+   <td align="center" width="96">
+     <a href="https://doc.qt.io/" target="_blank"><img src="https://images.seeklogo.com/logo-png/40/1/qt-small-logo-png_seeklogo-400106.png" alt="Qt" width=40 height=40/></a>
+     <br>Qt
+   </td>
+   <td align="center" width="96">
+     <a href="https://pydantic.dev/" target="_blank"><img src="https://opensource.muenchen.de/logo/pydantic.png" alt="Pydantic" width=40 height=40/></a>
+     <br>Pydantic
+   </td>
+   <td align="center" width="96">
+     <a href="https://sqlite.org/" target="_blank"><img src="https://images.icon-icons.com/2699/PNG/512/sqlite_logo_icon_169724.png" alt="SQLite" width=40 height=40/></a>
+     <br>SQLite
+   </td>
+   <td align="center" width="96">
+     <a href="https://docs.astral.sh/uv/" target="_blank"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2024/09/uv.svg.png" alt="uv" width=40 height=40/></a>
+     <br>uv
+   </td>
+   <td align="center" width="96">
+     <a href="https://docs.astral.sh/ruff/" target="_blank"><img src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2026.44.0/1779376509970/Microsoft.VisualStudio.Services.Icons.Default" alt="Ruff" width=40 height=40/></a>
+     <br>Ruff
+   </td>
+   <td align="center" width="96">
+     <a href="#Linux" target="_blank"><img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/Tux_%283-color%29.svg/revision/latest/scale-to-width-down/1200?cb=20241002064834" alt="Linux" width=40 height=40/></a>
+     <br>Linux
+   </td>
+   <td align="center" width="96">
+     <a href="https://obsidian.md/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1280px-2023_Obsidian_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Obsidian" width=40 height=40/></a>
+     <br>Obsidian
    </td>
  </tr>
 </table>
